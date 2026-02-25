@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <!-- Copy-paste in your Readme.md file -->
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=naol45&data=followers,repositories,stars,commits)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=naol45&data=followers,repositories,stars,commits&theme=darkmode)
