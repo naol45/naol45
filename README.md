@@ -22,5 +22,6 @@ Here are some ideas to get you started:
     <img alt="Dashboard stats of @naol45" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=93046105&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naol45)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
