@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <!-- Copy-paste in your Readme.md file -->
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=naol45&data=followers,repositories,stars,commits&theme=darkmode)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)
