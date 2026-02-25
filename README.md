@@ -22,5 +22,4 @@ Here are some ideas to get you started:
     <img alt="Dashboard stats of @naol45" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=93046105&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-![Metrics](https://metrics.lecoq.io/naol45?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=naol45&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)<!-- Made with [OSS Insight](https://ossinsight.io/) -->
