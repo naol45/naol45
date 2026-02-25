@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>
+  Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35" /> I'm Naol
+</h1>
 <p align="center">
   <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=naol45&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat" />
   <br /><br />
