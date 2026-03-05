@@ -1,5 +1,6 @@
 <h1>
-  Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35" /> I'm Naol
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=385EF7&width=435&lines=HI+I+am+Naol+Weyessa">
 </h1>
 <p align="center">
   <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=naol45&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat" />
